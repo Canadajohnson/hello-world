@@ -1,2 +1,4 @@
 # hello-world
-First repository
+
+Hi,
+Finally i started to learn codes. So excited for future.
